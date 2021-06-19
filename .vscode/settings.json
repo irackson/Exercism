@@ -21,7 +21,31 @@
         "terminal.ansiWhite": "#A7A7A7",
         "terminal.ansiYellow": "#F9EE98",
         "editorCursor.foreground": "#dddd0fb6",
+        "activityBar.activeBackground": "#682121",
+        "activityBar.activeBorder": "#267926",
+        "activityBar.background": "#682121",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#267926",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#411515",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#682121",
+        "titleBar.activeBackground": "#411515",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#41151599",
+        "titleBar.inactiveForeground": "#e7e7e799",
         "tab.activeBorder": "#0005BC"
     },
-    "cSpell.enabled": false
+    "cSpell.enabled": false,
+    "peacock.color": "#411515",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/tempCodeRunnerFile.rb": true
+    },
+    "explorerExclude.backup": null
 }
