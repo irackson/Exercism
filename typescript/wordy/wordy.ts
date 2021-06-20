@@ -43,6 +43,5 @@ export class WordProblem {
     }
 }
 const wp = new WordProblem('What is 1 plus 1 plus 1?');
-// console.log(wp.parse());
 
 console.log(wp.answer());
