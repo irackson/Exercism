@@ -1,9 +1,6 @@
 {
     "workbench.colorCustomizations": {
-        "terminal.background": "#1E1E1E",
-        "terminal.foreground": "#A7A7A7",
-        "terminalCursor.background": "#a7a7a7",
-        "terminalCursor.foreground": "#dddd0fb6",
+        "editorCursor.foreground": "#dddd0fb6",
         "terminal.ansiBlack": "#1E1E1E",
         "terminal.ansiBlue": "#7587A6",
         "terminal.ansiBrightBlack": "#5F5A60",
@@ -20,7 +17,10 @@
         "terminal.ansiRed": "#CF6A4C",
         "terminal.ansiWhite": "#A7A7A7",
         "terminal.ansiYellow": "#F9EE98",
-        "editorCursor.foreground": "#dddd0fb6",
+        "terminal.background": "#1E1E1E",
+        "terminal.foreground": "#A7A7A7",
+        "terminalCursor.background": "#a7a7a7",
+        "terminalCursor.foreground": "#dddd0fb6",
         "activityBar.activeBackground": "#053974",
         "activityBar.activeBorder": "#d60969",
         "activityBar.background": "#053974",
@@ -34,7 +34,8 @@
         "titleBar.activeBackground": "#032143",
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#03214399",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "tab.activeBorder": "#0005BC"
     },
     "cSpell.enabled": false,
     "peacock.color": "#032143",
