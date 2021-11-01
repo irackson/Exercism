@@ -24,13 +24,17 @@
         "statusBar.background": "#032143",
         "statusBar.foreground": "#e7e7e7",
         "statusBarItem.hoverBackground": "#053974",
-        "titleBar.activeBackground": "#0005BC",
-        "titleBar.activeForeground": "#ffffff",
+        "titleBar.activeBackground": "#032143",
+        "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#03214399",
         "titleBar.inactiveForeground": "#e7e7e799",
-        "tab.activeBorder": "#0005BC",
-        "statusBar.border": "#032143",
-        "titleBar.border": "#032143"
+        "tab.activeBorder": "#053974",
+        "editorGroup.border": "#053974",
+        "panel.border": "#053974",
+        "sash.hoverBorder": "#053974",
+        "sideBar.border": "#053974",
+        "statusBarItem.remoteBackground": "#032143",
+        "statusBarItem.remoteForeground": "#e7e7e7"
     },
     "cSpell.enabled": false,
     "peacock.color": "#032143",
@@ -41,6 +45,5 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tempCodeRunnerFile.rb": true
-    },
-    "explorerExclude.backup": null
+    }
 }
